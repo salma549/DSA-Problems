@@ -1,3 +1,5 @@
+// Find Maximum without Math method
+
 const myArray = [2,90,45,100,600]
 
 function findMaximum(arr){
