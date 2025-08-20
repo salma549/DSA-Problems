@@ -1,4 +1,4 @@
-//  Write a  program for swapping of two array
+//  Write a  program for swapping of two arrays
 
 function swapArray(arr1, arr2){
 
