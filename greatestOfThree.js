@@ -1,4 +1,4 @@
-//  Write a program to find the largest number among three numbers.
+//  Write a program to find the largest number among three numbers
 
 // Find Greatest of Three Numbers using IF ELSE
 
