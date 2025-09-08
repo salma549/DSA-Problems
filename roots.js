@@ -1,4 +1,4 @@
-function findRoots(a,b,c){
+function findRoots(a,b,c){ 
     
     if(a===0){
         console.log('This equation is linear, no roots to compute ')
