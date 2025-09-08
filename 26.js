@@ -39,3 +39,19 @@ let char2 = '3'
 
 console.log(`${char1} is alphabet? ${isAlphabet(char1)}`)
 console.log(`${char2} is alphabet? ${isAlphabet(char2)}`)
+
+
+// Regex Expression
+
+function isAlphabet(char){
+    
+    return /^[A-Za-z]$/.test(char)
+   
+}
+
+
+let char1 = 'j'
+let char2 = '3'
+
+console.log(`${char1} is alphabet? ${isAlphabet(char1)}`)
+console.log(`${char2} is alphabet? ${isAlphabet(char2)}`)
